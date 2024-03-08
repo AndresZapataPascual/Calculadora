@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="textnum1">Numero aqui</string>
+    <string name="ingresenum1">Ingrese numero a calcular: </string>
+    <string name="btncalculo">Calcular</string>
+    <string name="tituloSeno">Sen: </string>
+    <string name="resultadoSeno"> </string>
+    <string name="tituloCoseno">Cos: </string>
+    <string name="resultadoCoseno"> </string>
+    <string name="tituloRaiz">Raiz: </string>
+    <string name="resultadoRaiz"> </string>
+    <string name="tituloPotencia">Potencia: </string>
+    <string name="resultadoPotencia"> </string>
+</resources>
